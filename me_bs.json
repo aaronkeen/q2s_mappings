@@ -1,0 +1,21 @@
+{
+   "MATH:141": [["MATH 1261"],["MATH 1264"]],
+   "MATH:142": [["MATH 1261","MATH 1262"],["MATH 1261B","MATH 1262"]],
+   "MATH:143": [["MATH 1262"],["MATH 1262C"]],
+   "MATH:206": [["MATH 1151"]],
+   "MATH:244": [["MATH 2341"]],
+   "PHYS:141": [["PHYS 1141"]],
+   "PHYS:142": [["PHYS 1141","PHYS 1143"],["PHYS 1141B","PHYS 1143"]],
+   "PHYS:143": [["PHYS 1143"],["PHSY 1143C"]],
+   "CHEM:124": [["CHEM 1120"]],
+   "CHEM:125": [["CHEM 1122"]],
+   "CHEM:126": [["CHEM 1122"]],
+
+   "MATH:1261": [["MATH 141","MATH 142"], ["MATH 141","MATH 141B"]],
+   "MATH:1262": [["MATH 142", "MATH 143"], ["MATH 142","MATH 142C"]],
+   "MATH:1151": [["MATH 206"],["MATH 244"]],
+   "MATH:2031": [["CSC 248"],["MATH 248"]],
+   "PHIL:3323": [["PHIL 323"],["CSC 300"]],
+   "PHYS:1141": [["PHYS 141"]],
+   "CHEM:1120": [["CHEM 124"]]
+}
