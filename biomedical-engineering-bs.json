@@ -1,0 +1,36 @@
+{
+   "BMED:1101": [["BMED 101"]],
+   "BMED:3102": [["BMED 102"]],
+   "BMED:2212": [["BMED 212"]],
+   "BMED:2310": [["BMED 310"]],
+   "BMED:2311": [["BMED 310"]],
+   "BMED:2310": [["EE 201", "CSC 231"]],
+   "BMED:2311": [["EE 201", "CSC 231"]],
+   "BMED:3410": [["BMED 410"]],
+   "BMED:2420": [["BMED 420"]],
+   "BMED:3425": [["BMED 425"]],
+   "BMED:3430": [["BMED 430"]],
+   "BMED:4440": [["BMED 440"]],
+   "BMED:4465": [["BMED 455", "BMED 456"]],
+   "BMED:4466": [["BMED 455", "BMED 456"]],
+   "BMED:4460": [["BMED 460"]],
+
+   "BIO:1151": [["BIO 161"]],
+   "BIO:2231": [["BIO 231"]],
+   "BIO:2232": [["BIO 232"]],
+   "ENGR:2211": [["ME 211", "CE 204"]],
+   "ENGR:2212": [["ME 212"]],
+   "CHEM:1120": [["CHEM 124"]],
+   "CHEM:1122": [["CHEM 125"]],
+
+   "MATH:1261": [["MATH 141","MATH 142"], ["MATH 141","MATH 141Bridge"]],
+   "MATH:1262": [["MATH 142", "MATH 143"], ["MATH 142","MATH 142Cap"]],
+   "MATH:2263": [["MATH 241"]],
+   "MATH:2341": [["MATH 244"]],
+   "ME:3341": [["ME 341"]],
+   "STAT:3210": [["STAT 312"]],
+
+   "PHYS:1141": [["PHYS 141", "PHYS 142", "PHYS 143"], ["PHYS 141", "PHYS 142", "PHYS 142Cap"], ["PHYS 141", "PHYS 143", "PHYS Cap/Bridge"], ["PHYS 141", "PHYS 141Bridge"]],
+   "PHYS:1143": [["PHYS 141", "PHYS 142", "PHYS 143"], ["PHYS 141", "PHYS 142", "PHYS 142Cap"], ["PHYS 141", "PHYS 143", "PHYS Cap/Bridge"]]
+
+}
