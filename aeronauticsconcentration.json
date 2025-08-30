@@ -1,10 +1,10 @@
 {
-   "AERO:306": [["AERO 3305"]],
-   "AERO:307": [["AERO 4406"]],
-   "AERO:401": [["AERO 3304"]],
-   "AERO:405": [["AERO 4405"]],
-   "AERO:420": [["AERO 4420"]],
-   "AERO:443": [["AERO 4461", "AERO 4462"]],
-   "AERO:444": [["AERO 4461", "AERO 4462"]],
-   "AERO:445": [["AERO 4461", "AERO 4462"]]
+   "AERO 306": [["AERO 3305"]],
+   "AERO 307": [["AERO 4406"]],
+   "AERO 401": [["AERO 3304"]],
+   "AERO 405": [["AERO 4405"]],
+   "AERO 420": [["AERO 4420"]],
+   "AERO 443": [["AERO 4461", "AERO 4462"]],
+   "AERO 444": [["AERO 4461", "AERO 4462"]],
+   "AERO 445": [["AERO 4461", "AERO 4462"]]
 }
